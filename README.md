@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abrar Hussain
 - 👀 I’m interested in Programming, Software development and creation of youtube videos.
-- 🌱 I’m currently training candidates in the field of Web Development (HTML, CSS, JS, Bootstrap, SQL, PHP, Python, Laravel)
+- 🌱 I’m currently training candidates in the field of Web Development (HTML, CSS, JS, Bootstrap, SQL, PHP, Python, Laravel) at The Institute of Management & Entrepreneurship (TIME)
 - 💞️ I’m looking to collaborate on any projects that have a flavour of JS, Python and PHP.
 
 <!---
